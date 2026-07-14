@@ -1,0 +1,6 @@
+{
+  "name": "Railway Parcel Express",
+  "description": "Professional railway parcel tracking & booking platform. Real-time status updates, price estimates, user/admin dashboards, booking invoice downloads, interactive map simulations, and live support chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
